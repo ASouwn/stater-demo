@@ -37,3 +37,7 @@ META-INF/spring.factories文件里添加org.springframework.boot.autoconfigure.E
         else System.out.println(user.getName());
     }
 ~~~
+
+文章参考:
+- [【案例实战】SpringBoot3.x自定义封装starter实战](https://cloud.tencent.com/developer/article/2292258?shareByChannel=link)
+- [spring boot 3.2.4 官方文档 12. Creating Your Own Auto-configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.developing-auto-configuration)
